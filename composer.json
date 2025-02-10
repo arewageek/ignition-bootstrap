@@ -1,0 +1,16 @@
+{
+    "name": "arewageek/bs",
+    "autoload": {
+        "psr-4": {
+            "Arewageek\\Bs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Austin Ameh"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
